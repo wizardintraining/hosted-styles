@@ -90,7 +90,7 @@
 
 /* Active thread box */
 .cZICLc:hover .dsoUjb {
-    border: solid 1px #aa5010;
+    border: solid 1px #8cf392;
 }
 
 /* "Unread" label */
@@ -106,7 +106,7 @@
     background-color: #e4f7fb;
 }
 .g3VIld .HvOprf:hover, .e3Duub:hover, .w63zXd:hover .NMPajd {
-    background-color: #aa5010;
+    background-color: #8cf392;
 }
 
 /* Collapsed messages button */
@@ -234,7 +234,7 @@
     background-color: #e4f7fb;
 }
 .PL5Wwe:focus:not(.dQ2Tsf) {
-    background-color: #aa5010;
+    background-color: #8cf392;
 }
 
 /* Sidebar elements text color for chans with unread messages */
@@ -407,4 +407,3 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     color: #000 !important;
     fill: #000 !important;
 }
-
