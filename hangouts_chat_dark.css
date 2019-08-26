@@ -57,18 +57,25 @@
     background-color: #2d2d2d;
 }
 
+/* Thread boxes in pm */
+.WQKmIb .dsoUjb {
+    background-color: #2d2d2d !important;
+    border: solid 1px #2d2d2d !important;
+
+}
+
 /* Thread boxes in search results */
 .d4FIEb .ajCeRb .QIJiHb {
     color: #fff !important;
 }
 /* Room title between threads in search results */
 .aVIRye {
-    color: #4abeef !important;
+    color: #4a6bef !important;
 }
 
 /* Topbar members button */
 .sNyyib .x1jjEb {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 
 /* Topbar in room preview */
@@ -85,28 +92,28 @@
     border: solid 1px #5f5f5f;
 }
 .MbhUzd {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 
 /* Active thread box */
 .cZICLc:hover .dsoUjb {
-    border: solid 1px #8cf392;
+    border: solid 1px #7b4aef;
 }
 
 /* "Unread" label */
 .Fv5sh {
-    color: #4abeef;
+    color: #4a6bef;
 }
 .z9ucM .heceU {
-    fill: #4abeef;
+    fill: #4a6bef;
 }
 
 /* Jump to bottom button */
 .g3VIld .HvOprf, .e3Duub, .w63zXd .NMPajd {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 .g3VIld .HvOprf:hover, .e3Duub:hover, .w63zXd:hover .NMPajd {
-    background-color: #8cf392;
+    background-color: #7b4aef;
 }
 
 /* Collapsed messages button */
@@ -116,7 +123,7 @@
 .Jqvwfe {
     background-color: #3d3d3d;
     border: solid 1px #6a6a6a;
-    color: #4abeef;
+    color: #4a6bef;
 }
 
 /* Username color */
@@ -126,7 +133,7 @@
 
 /* Follow button color */
 .zxHSSc {
-    color: #EEBE67;
+    color: #4abeef;
     background-color: #2d2d2d;
     border: solid 1px #3f3f3f;
 }
@@ -139,7 +146,7 @@
 
 /* Cancel button when editing a message */
 .HQ8yf .RveJvd.RveJvd, .oG5Srb .RveJvd.RveJvd, .KV0KFc .ojqkvd {
-    color: #4abeef;
+    color: #4a6bef;
 }
 
 /* Borders in message editing */
@@ -178,7 +185,7 @@
     color: #fff;
 }
 .SfqTBc .jy2fzc {
-    color: #4abeef;
+    color: #4a6bef;
 }
 
 /* New thread box */
@@ -193,7 +200,7 @@
     color: #fff;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
-    fill: #4abeef;
+    fill: #4a6bef;
 }
 
 /* Join room box in room preview */
@@ -205,7 +212,7 @@
 }
 /* Join button */
 .W32wZ {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 
 /* Text between threads color */
@@ -231,10 +238,10 @@
     color: #fff;
 }
 .FS4hgd.iWO5td.iWO5td, div .dHI9xe.KKjvXb, div .dHI9xe.qs41qe {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 .PL5Wwe:focus:not(.dQ2Tsf) {
-    background-color: #8cf392;
+    background-color: #7b4aef;
 }
 
 /* Sidebar elements text color for chans with unread messages */
@@ -249,8 +256,8 @@
 
 /* "Unread" jump button in sidebar */
 .OpmeVb .GfYBMd, .FTuhNb .RW5Kg {
-    fill: #4abeef;
-    color: #4abeef;
+    fill: #4a6bef;
+    color: #4a6bef;
 }
 
 /* Sidebar "recent" or "starred" section names color */
@@ -307,12 +314,12 @@
 
 /* Chat top left logo */
 #_x3C_Path_x3E_ {
-    fill: #4abeef;
+    fill: #4a6bef;
 }
 
 /* Top left corner Status button when active */
 .RASpke:hover, .RASpke:focus, .RASpke:hover:focus, .RASpke:active, .RASpke.iWO5td.iWO5td {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 
 /* Time and menu buttons and clock for channels inactive and active colors */
@@ -345,17 +352,17 @@
 /* Inline pre colors */
 .U8d2H {
     background-color: #3d3d3d;
-    color: #4abeef;
+    color: #4a6bef;
     border: 1px solid #6a6a6a;
 }
 
 /* Self Mentions */
 .cmEq8b .NhKrqd {
-    background-color: #4abeef;
+    background-color: #4a6bef;
 }
 /* Others' mentions */
 .fWwrkf {
-    color: #4abeef;
+    color: #4a6bef;
 }
 
 /* Link previews */
@@ -383,7 +390,7 @@
     border: 1px solid #6a6a6a;
 }
 .ubzhQb {
-    color: #4abeef;
+    color: #4a6bef;
 }
 
 /* Emoji reactions */
@@ -395,11 +402,11 @@
     color: #ccc;
 }
 .dIC9Jb.CwpxMe .j3630e {
-    color: #4abeef;
+    color: #4a6bef;
 }
 
 div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, div .mUbCce.u3bW4e, .JRtysb:hover .snByac, .JRtysb:focus .snByac, .JRtysb:active .snByac, .JRtysb.qs41qe .snByac, .JRtysb.u3bW4e .snByac {
-    fill: #4abeef;
+    fill: #4a6bef;
 }
 
 /* browse room and search exit button */
