@@ -1,4 +1,3 @@
-
 /* https://github.com/paveyry/better-hangoutschat */
 /* Specify color for thread links */
 .threadlink {
@@ -21,7 +20,7 @@
     background-color: #212121 !important;
 }
 /* bot cards backgrounds to match  */
-aPoydb.PiXiEf.ohJDzb.Iia6Bd {
+.Iia6Bd {
     background-color: #212121 !important;
 }
 
@@ -48,6 +47,10 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
     color: #fff;
     fill: #fff;
 }
+/* Notifications active/disabled status button */
+.gWTIDe {
+    color: rgb(202, 196, 201);
+}
 /* Thread boxes colors */
 .dsoUjb {
     background-color: #2d2d2d;
@@ -59,7 +62,7 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
 .nF6pT.FwR7Pc .iKCcE, .hu21Y:hover {
     background-color: #3f3f3f;
 }
-.XbbXmb.zzVqCe .nF6pT, .jGyvbd .jO0Dzb {
+.XbbXmb.zzVqCe .nF6pT, .jGyvbd .jO0Dzb, .dsoUjb .jGyvbd .jO0Dzb {
     background-color: #2d2d2d;
 }
 
@@ -87,6 +90,7 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
 /* Topbar members button */
 .sNyyib .x1jjEb {
     background-color: #4a6bef;
+    padding: 0px 8px;
 }
 
 /* Topbar in room preview */
@@ -166,7 +170,7 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
 }
 
 /* Answer box background color */
-.vmpzOc {
+.vmpzOc, .PhFuQe.yXgmRe .dJ9vNe, .dJ9vNe {
     background-color: #2d2d2d;
 }
 /* Cursor and text input color */
@@ -244,6 +248,11 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
     background-color: #3f3f3f;
 }
 
+/* Sidebar channel icons */
+.SwwApf, .SwwApf.qkl0pe {
+    background-color: black;
+}
+
 /* Sidebar active channel */
 .FS4hgd.iWO5td .ojqkvd, .FS4hgd.iWO5td, .dHI9xe.qs41qe, .dHI9xe.KKjvXb.KKjvXb, .dHI9xe.qs41qe .ojqkvd.ojqkvd, .dHI9xe.KKjvXb.KKjvXb .ojqkvd {
     color: #fff;
@@ -289,13 +298,19 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
     background-color: #3f3f3f;
 }
 
+/* Sidebar search button shadow */
+.d6pS5 {
+    box-shadow: 0 5px 5px -2px black;
+    padding-bottom: 0;
+}
+
 /* Search menu text color */
 .Uk0Bfe .zHQkBf, .Uk0Bfe .snByac, .dQ2Tsf .NXfF8b, .dQ2Tsf .ZTmjQb {
     color: #000;
 }
 
 .ndJi5d {
-    rgba(0,0,0,0.38);
+    color: rgba(0,0,0,0.38);
 }
 
 /* Search menu elements colors when hovering */
@@ -354,17 +369,17 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
 }
 
 /* Code snippets colors */
-.FMTudf {
-    border: 1px solid #6a6a6a;
-    background: #3d3d3d;
-    color: #fff;
+.FMTudf, .Zc1Emd div {
+    border: 1px solid #6a6a6a!important;
+    background: #3d3d3d!important;
+    color: #fff!important;
 }
 
 /* Inline pre colors */
-.U8d2H {
-    background-color: #3d3d3d;
-    color: #9a74a9;
-    border: 1px solid #6a6a6a;
+.U8d2H, .Zc1Emd span:not(.NhKrqd):not(.fWwrkf) {
+    background-color: #3d3d3d!important;
+    color: #9a74a9!important;
+    border: 1px solid #6a6a6a!important;
 }
 
 /* Self Mentions */
@@ -374,6 +389,12 @@ aPoydb.PiXiEf.ohJDzb.Iia6Bd {
 /* Others' mentions */
 .fWwrkf {
     color: #4a6bef;
+}
+
+/* People's name before message */
+.cmEq8b .Z4BnXb .njhDLd {
+    color: white;
+    font-weight: 1000;
 }
 
 /* Link previews */
