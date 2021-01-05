@@ -23,6 +23,17 @@
 .Iia6Bd {
     background-color: rgba(120, 80, 120, 0.2) !important;
 }
+/* reaction backgrounds/boarders */
+.lFwksc, .YJxKBc .JGMh2e {
+    background-color: rgba(30,30,30,0.200)!important;
+    border: 1px solid #4abeef;
+
+/* Chat/bot icon backgrounds */
+.tzwwSb {
+    background-color: black;
+.SwwApf {
+    background-color: black;
+}
 
 /* Title in private messages */
 .CmMf8e {
