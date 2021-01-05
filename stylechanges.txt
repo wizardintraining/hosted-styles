@@ -7,10 +7,10 @@ Changes from  paveyry / better-hangoutschat:
      border: 1px solid #6a6a6a;
  }
 
-+/* bot cards backgrounds to match  */
-+.Iia6Bd {
-+    background-color: rgba(33,33,33,0.2) !important;
-+}
+/* purple bot card background  */
+.Iia6Bd {
+    background-color: rgba(120, 80, 120, 0.2) !important;
+}
 
 #_x3C_Path_x3E_ {
     fill: #4abeef;
