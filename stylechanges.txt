@@ -8,20 +8,15 @@ Changes from  paveyry / better-hangoutschat:
  }
 
 +/* bot cards backgrounds to match  */
-+aPoydb.PiXiEf.ohJDzb.Iia6Bd {
++.Iia6Bd {
 +    background-color: #212121 !important;
 +}
 
 #_x3C_Path_x3E_ {
-    fill: #4a6bef;
+    fill: #4abeef;
 }
 
 #cc7832 -> #4a6bef
 #aa5010 -> #7b4aef
 #EEBE67 -> #4abeef
 rgba(150,30,30,0.300) -> #7c4aef62
-
-
-
-
-
