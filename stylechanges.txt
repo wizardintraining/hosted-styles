@@ -9,7 +9,7 @@ Changes from  paveyry / better-hangoutschat:
 
 +/* bot cards backgrounds to match  */
 +.Iia6Bd {
-+    background-color: #212121 !important;
++    background-color: rgba(33,33,33,0.2) !important;
 +}
 
 #_x3C_Path_x3E_ {
