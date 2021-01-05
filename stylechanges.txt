@@ -8,7 +8,7 @@ Changes from  paveyry / better-hangoutschat:
  }
 
 +/* bot cards backgrounds to match  */
-+aPoydb.PiXiEf.ohJDzb.Iia6Bd {
++.Iia6Bd {
 +    background-color: #212121 !important;
 +}
 
