@@ -98,7 +98,7 @@
 }
 /* Room title between threads in search results */
 .aVIRye {
-    color: #cc7832 !important;
+    color: #4a6bef !important;
 }
 /* Load more messages button in search results */
 .taQuBe {
@@ -120,20 +120,20 @@
     border: solid 1px #5f5f5f;
 }
 .MbhUzd {
-    background-color: #cc7832;
+    background-color: #4a6bef;
 }
 
 /* Active thread box */
 .cZICLc:hover .dsoUjb {
-    border: solid 1px #aa5010;
+    border: solid 1px #7b4aef;
 }
 
 /* "Unread" label */
 .Fv5sh {
-    color: #cc7832;
+    color: #4a6bef;
 }
 .z9ucM .heceU {
-    fill: #cc7832;
+    fill: #4a6bef;
 }
 
 /* Jump to bottom and right panel buttons */
@@ -141,10 +141,10 @@
 .brC-dA-I.aT5-aOt-I-Jp.aT5-aOt-I-JW .aT5-aOt-I-JX-atM, 
 .brC-aMv-bta .brC-dA-I.aT5-aOt-I-Jp.aT5-aOt-I-JW .aT5-aOt-I-JX-atM,
 .brC-dA-I.aT5-aOt-I-Jp .aT5-aOt-I-JX-atM, .brC-aMv-bta .brC-dA-I.aT5-aOt-I-Jp .aT5-aOt-I-JX-atM {
-    background-color: #cc7832;
+    background-color: #4a6bef;
 }
 .g3VIld .HvOprf:hover, .e3Duub:hover, .w63zXd:hover .NMPajd {
-    background-color: #aa5010;
+    background-color: #7b4aef;
 }
 
 /* Collapsed messages button */
@@ -154,7 +154,7 @@
 .Jqvwfe {
     background-color: #3d3d3d;
     border: solid 1px #6a6a6a;
-    color: #cc7832;
+    color: #4a6bef;
 }
 
 /* Username color */
@@ -164,7 +164,7 @@
 
 /* Follow button color */
 .zxHSSc {
-    color: #EEBE67;
+    color: #4abeef;
     background-color: #2d2d2d;
     border: solid 1px #3f3f3f;
 }
@@ -172,12 +172,12 @@
     background: transparent;
 }
 .zxHSSc.FuHVqe {
-    background-color: rgba(150,30,30,0.300);
+    background-color: #7c4aef62;
 }
 
 /* Cancel button when editing a message */
 .HQ8yf .RveJvd.RveJvd, .oG5Srb .RveJvd.RveJvd, .KV0KFc .ojqkvd {
-    color: #cc7832;
+    color: #4a6bef;
 }
 
 /* Borders in message editing */
@@ -216,7 +216,7 @@
     color: #fff;
 }
 .SfqTBc .jy2fzc {
-    color: #cc7832;
+    color: #4a6bef;
 }
 
 /* New thread box */
@@ -231,7 +231,7 @@
     color: #fff;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
-    fill: #cc7832;
+    fill: #4a6bef;
 }
 
 /* Join room box in room preview */
@@ -243,7 +243,7 @@
 }
 /* Join button */
 .W32wZ {
-    background-color: #cc7832;
+    background-color: #4a6bef;
 }
 
 /* Text between threads color */
@@ -274,10 +274,10 @@
     color: #fff;
 }
 .FS4hgd.iWO5td.iWO5td, div .dHI9xe.KKjvXb, div .dHI9xe.qs41qe, .IL9EXe.dHI9xe.qs41qe:focus, .IL9EXe.dHI9xe.qs41qe:hover, .IL9EXe.dHI9xe.qs41qe, .TK .TO:active, .n6 .ah9.aiu:active, .CL:active, .TO.nZ, .TO.ol, .TO.NQ, .n6 .ah9:hover, .n6 .ah9.aiu:hover, .n6 .ah9:focus, .CL.NQ, .CL:hover, .CL:focus {
-    background-color: #cc7832;
+    background-color: #4a6bef;
 }
 .PL5Wwe:focus:not(.dQ2Tsf) {
-    background-color: #aa5010;
+    background-color: #7b4aef;
 }
 
 /* Sidebar elements text color for chans with unread messages */
@@ -292,8 +292,8 @@
 
 /* "Unread" jump button in sidebar */
 .OpmeVb .GfYBMd, .FTuhNb .RW5Kg {
-    fill: #cc7832;
-    color: #cc7832;
+    fill: #4a6bef;
+    color: #4a6bef;
 }
 
 /* Sidebar "recent" or "starred" or Chat or Rooms section names color */
@@ -356,12 +356,12 @@
 
 /* Chat top left logo */
 #_x3C_Path_x3E_ {
-    fill: #cc7832;
+    fill: #4abeef;
 }
 
 /* Top left corner Status button when active */
 .RASpke:hover, .RASpke:focus, .RASpke:hover:focus, .RASpke:active, .RASpke.iWO5td.iWO5td {
-    background-color: #cc7832;
+    background-color: #4a6bef;
 }
 
 /* Time and menu buttons and clock for channels inactive and active colors */
@@ -394,17 +394,17 @@
 /* Inline pre colors */
 .U8d2H, .Zc1Emd span:not(.NhKrqd):not(.fWwrkf) {
     background-color: #3d3d3d!important;
-    color: #cc7832!important;
+    color: #4a6bef!important;
     border: 1px solid #6a6a6a!important;
 }
 
 /* Self Mentions */
 .cmEq8b .NhKrqd {
-    background-color: #cc7832;
+    background-color: #4a6bef;
 }
 /* Others' mentions */
 .fWwrkf {
-    color: #cc7832;
+    color: #4a6bef;
 }
 
 /* People's name before message */
@@ -438,7 +438,7 @@
     border: 1px solid #6a6a6a;
 }
 .ubzhQb {
-    color: #cc7832;
+    color: #4a6bef;
 }
 
 /* Emoji reactions */
@@ -450,15 +450,39 @@
     color: #ccc;
 }
 .dIC9Jb.CwpxMe .j3630e {
-    color: #cc7832;
+    color: #4a6bef;
 }
 
 div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, div .mUbCce.u3bW4e, .JRtysb:hover .snByac, .JRtysb:focus .snByac, .JRtysb:active .snByac, .JRtysb.qs41qe .snByac, .JRtysb.u3bW4e .snByac {
-    fill: #cc7832;
+    fill: #4a6bef;
 }
 
 /* browse room and search exit button */
 .xTcvqe .fKz7Od, .wbJc4 .fKz7Od {
     color: #000 !important;
     fill: #000 !important;
+}
+
+
+ /* Inline pre colors */
+ .U8d2H {
+     background-color: #3d3d3d;
+     color: #9a74a9;
+     border: 1px solid #6a6a6a;
+ }
+
+/* purple bot card background  */
+.Iia6Bd {
+    background-color: rgba(120, 80, 120, 0.2) !important;
+}
+/* reaction backgrounds/boarders */
+.lFwksc, .YJxKBc .JGMh2e {
+    background-color: rgba(30,30,30,0.200)!important;
+    border: 1px solid #4abeef;
+
+/* Chat/bot icon backgrounds */
+.tzwwSb {
+    background-color: black;
+.SwwApf {
+    background-color: black;
 }
