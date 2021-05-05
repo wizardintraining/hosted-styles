@@ -5,6 +5,10 @@
     font-size: 8px;
 }
 
+.linkcpy {
+    font-weight: bold;
+}
+
 /* Reduce left and right margins in the chat area */
 .BEjUKc .cFc9ae {
     margin-left: 10px;
@@ -18,8 +22,54 @@
 }
 
 /* Reduce height of header bar */
-.DWzK6d, .gb_Uf > .gb_g, .gb_Uf, .Jrbdv {
+.DWzK6d, .gb_Uf > .gb_g, .gb_Uf, .Jrbdv, .C2Jvlf {
     height: 45px;
+}
+.gb_qa:not(.gb_ra) .gb_Kd, .gb_gf:not(.gb_xf) {
+    padding: 0;
+}
+.gb_Ie, .gb_wf, .gb_gf {
+    height: 40px!important;
+}
+.gb_Ve button svg, .gb_Ve button img {
+    padding: 6px;
+}
+.HyiAVd, .i5PBGe .GVSFtd {
+    margin-top: -5px;
+}
+.bn .bl {
+    height: calc(100vh -  36px );
+}
+
+/* Reduce height of search field in header bar */
+.gb_Ue {
+	height: 32px;
+    margin: 8px;
+}
+.gb_ff {
+    height: 33px;
+}
+.gb_of.gb_pf {
+    margin-top: -5px;
+}
+/* Height of channel header bar */
+.zmXnlc .dKv0S.dKv0S {
+    height: 40px;
+}
+.RFZYhc .kSBibe {
+    height: calc(100% - 40px);
+    top: 40px;
+}
+
+/* Chan button in header bar */
+.dKv0S .i5PBGe {
+    min-height: 12px;
+    padding: 4px;
+}
+/* Chan button number of members */
+.sNyyib .x1jjEb {
+    height: 13px;
+    font-size: 11px;
 }
 
 /* Reduce whitespace around New conversation button */
@@ -31,9 +81,24 @@
     padding-top: 0;
 }
 
+/* Chat/Files/Tasks tab buttons */
+.UDyRYe, .XXAR0, .wmFscd, .c0lDWe {
+    height: 14px;
+    line-height: 14px;
+}
+.ItO8Dd {
+    height: 1px;
+}
+
 /* Allow messages to display full-width */
 .bzJiD .jGyvbd .QIJiHb, .bzJiD .jGyvbd .zX644e {
     max-width: none;
+}
+
+/* Reduce sidebar width */
+.aeN.WR {
+    min-width: 270px!important;
+    max-width: 270px!important;
 }
 
 /* Reduce top and bottom padding around date */
@@ -41,9 +106,18 @@
     padding: 10px 0 0px 0;
 }
 
+/* Reduce left margin in sidebar */
+.yDIlKc .Eb3cg, .yDIlKc .nz9RLc, .W0hon .Eb3cg, .W0hon .nz9RLc, .Eb3cg {
+    padding-left: 5px;
+}
+
 /* Reduce right margin in sidebar */
-.n5yyEc {
-    margin-right: 4px;
+.yxIv1d .n5yyEc, .t5F5nf, .PL5Wwe .fh7VDd {
+    margin-right: 0;
+    padding-right: 0;
+}
+.krjOGe::-webkit-scrollbar {
+    width: 0;
 }
 
 /* Sidebar "recent" or "starred" section names text size */
@@ -59,6 +133,10 @@
     border-radius: 0px;
     -moz-border-radius: 0px
 }
+/* Search menu size */
+.d6pS5.iWO5td .ffyVOd {
+    background: none;
+}
 
 /* Search Menu "frequent" section text color and size */
 .wAR34c {
@@ -66,8 +144,13 @@
 }
 
 /* Padding height between messages in a thread */
-.nF6pT {
+.nF6pT, .dsoUjb:not(.WQKmIb) .jO0Dzb.nF6pT {
     padding-top: 4px;
+}
+
+/* Padding below people's names */
+.NGoCob {
+    padding-bottom: 0;
 }
 
 /* Margins around Unread label */
@@ -88,9 +171,27 @@
 
 /* Sidebar channels elements height */
 .LoYJxb {
-    height: 26px;
+    height: 26px !important;
 }
 
+/* Sidebar channel icons size and right padding */
+.SwwApf, .biNtD, .tzwwSb {
+    height: 25px !important;
+    width: 25px !important;
+}
+.JwR1Pc, .wR3Nid, .yDIlKc .JwR1Pc, .yDIlKc .wR3Nid, .W0hon .JwR1Pc, .W0hon .wR3Nid {
+    padding-left: 5px;
+}
+
+/* Sidebar conversation name size */
+.t5F5nf, .wR3Nid {
+    line-height: 15px;
+}
+/* Sidebar conversation content preview size */
+.RsRwdf {
+    line-height: 12px;
+    font-size: .67rem;
+}
 
 /* Vertically align triple dots buttons on
 channels in sidebar with the new height */
@@ -149,7 +250,7 @@ img {
 }
 
 /* Make code snippets look like slack's */
-.FMTudf {
+.FMTudf, .Zc1Emd div {
     font-family: Monaco,Menlo,Consolas,"Courier New",monospace !important;
     font-size: .75rem;
     margin: 1px 0;
@@ -162,6 +263,9 @@ img {
 /* Reduce the height of collapsed message row */
 .zh742e {
     padding-top: 0;
+}
+.kZ7cwe {
+    border: none;
 }
 
 /* Reduce margin around reaction emojis */
@@ -197,7 +301,7 @@ img {
 }
 
 /* Make inline pre look like slack's */
-.U8d2H {
+.U8d2H, .Zc1Emd span:not(.NhKrqd):not(.fWwrkf) {
     font-family: Monaco,Menlo,Consolas,"Courier New",monospace !important;
     margin: 0px;
     padding: 1px 3px;
@@ -218,8 +322,6 @@ img {
 
 /* Fix emojis dimensions */
 .iiJ4W {
-    /*height: auto;*/
-    /*width: auto;*/
     max-height: 1.2em;
     max-width: 1.2em;
     min-width: auto;
@@ -230,6 +332,12 @@ img {
     padding: 4px 18px 4px 12px;
     min-height: 30px;
 }
+.zmXnlc .IEIJqd {
+    padding-top: 5px!important;
+    padding-bottom: 5px!important; 
+}
+.RnpT2b {
+    margin: 0!important;
 
 /* Reduce height of link and file previews */
 .Pj9rof { /* global block */
@@ -262,4 +370,11 @@ img {
 .rNTKFb.Tvakkc, .tHcB6b .wU0G2b, .rNTKFb.Tvakkc + .bBukm /* image (for links) */ {
     height: 100px !important;
     width: auto !important;
+}
+/* answer text box size */
+.igYHTd, .vmpzOc .PhFuQe .I0LFzc, .EFNTcf, .CfUpN {
+    min-height: 38px;
+}
+.XweIZc {
+    padding: 5px 16px;
 }
